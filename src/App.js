@@ -8,7 +8,7 @@ import Header from './components/Header'
 
 const App = () => {
   return (
-    <div className='h-screen w-screen flex justify-center font-poppins bg-gradient-to-b from-slate-200 via-slate-50 to bg-slate-300'>
+    <div className='h-screen w-screen flex justify-center font-poppins bg-white'>
         <div className=''>
             <Header />
             <Profile />
