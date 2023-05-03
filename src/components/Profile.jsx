@@ -13,7 +13,7 @@ const Profile = () => {
       <section className='text-sm'>
         <p className=''>Based in 📌 Yogyakarta, Indonesia</p>
         <p> 
-          <a href="" className='display: inline-flex align-middle text-lg text-slate-900 dark:text-white'>
+          <a href="" className='display: inline-flex align-middle text-lg text-slate-900 dark:text-white animate-bounce'>
             <BsInfoCircle /> 
           </a> 
           <span>  </span> Interest in Front-End Web Developer.

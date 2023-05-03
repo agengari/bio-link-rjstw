@@ -15,8 +15,8 @@ const App = () => {
         <div className=''>
             <Header darkTheme={darkTheme} setDarkTheme={setDarkTheme}/>
             <Profile />
-            <Sosmed />
-            <Button />
+            <Sosmed darkTheme={darkTheme}/>
+            <Button darkTheme={darkTheme}/>
             <Footer />
         </div>
       </div>
