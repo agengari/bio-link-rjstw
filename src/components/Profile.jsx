@@ -8,12 +8,12 @@ const Profile = () => {
         <img src={ require('../assets/img/1675760889282.jpg') } alt="Foto Profil" className='h-28 rounded-full' />
       </section>
       <section>
-        <p className='text-xl font-bold mt-4'>Ageng Ari .N.</p>
+        <p className='text-xl font-bold mt-4 text-slate-900 dark:text-white'>Ageng Ari .N.</p>
       </section>
       <section className='text-sm'>
         <p className=''>Based in 📌 Yogyakarta, Indonesia</p>
         <p> 
-          <a href="" className='display: inline-flex align-middle text-lg'>
+          <a href="" className='display: inline-flex align-middle text-lg text-slate-900 dark:text-white'>
             <BsInfoCircle /> 
           </a> 
           <span>  </span> Interest in Front-End Web Developer.
